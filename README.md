@@ -29,7 +29,7 @@ and blink at you from a 128×64 OLED.
 *No phone. No PC. No proxy of your own. Only Wi-Fi.*
 
 </div>
-[![▶️ DEMO VIDEO](https://img.shields.io/badge/▶️_DEMO_VIDEO-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7504513359359397889/)
+[▶️ DEMO VIDEO](https://www.linkedin.com/feed/update/urn:li:activity:7504513359359397889/)
 ---
 
 ## 📑 Table of contents
