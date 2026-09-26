@@ -3,7 +3,8 @@
 <img src="assets/banner.svg" alt="RIO — a standalone realtime voice assistant on a thumb-sized ESP32-S3" width="100%">
 
 <br>
-[![DEMO VIDEO](https://www.linkedin.com/feed/update/urn:li:activity:7504513359359397889/)]
+[![DEMO VIDEO]]
+((https://www.linkedin.com/feed/update/urn:li:activity:7504513359359397889/))
 [![Platform](https://img.shields.io/badge/MCU-ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://documentation.espressif.com/esp32-s3_datasheet_en.pdf)
 [![Board](https://img.shields.io/badge/Board-XIAO_ESP32S3_Sense-00A1E0?style=for-the-badge)](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
 [![Arduino core](https://img.shields.io/badge/arduino--esp32-3.x-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/espressif/arduino-esp32)
