@@ -3,7 +3,6 @@
 <img src="assets/banner.svg" alt="RIO — a standalone realtime voice assistant on a thumb-sized ESP32-S3" width="100%">
 
 <br>
-[▶️ **DEMO VIDEO**](https://www.linkedin.com/feed/update/urn:li:activity:7504513359359397889/)
 
 [![Platform](https://img.shields.io/badge/MCU-ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://documentation.espressif.com/esp32-s3_datasheet_en.pdf)
 
@@ -30,7 +29,7 @@ and blink at you from a 128×64 OLED.
 *No phone. No PC. No proxy of your own. Only Wi-Fi.*
 
 </div>
-
+[![▶️ DEMO VIDEO](https://img.shields.io/badge/▶️_DEMO_VIDEO-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7504513359359397889/)
 ---
 
 ## 📑 Table of contents
